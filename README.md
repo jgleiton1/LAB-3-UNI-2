@@ -15,6 +15,8 @@ Calcular el valor de la potencia de cada una de las ressitencias RL, aplicando l
 
 2. Marco teorico 
 
+![image](https://user-images.githubusercontent.com/93958596/149843355-0802e5a6-9e2b-4704-9c6b-0d3124fe4446.png)
+
 3. Requisitos Previos
 
 RL: 220 Ω
