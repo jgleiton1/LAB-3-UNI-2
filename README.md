@@ -136,6 +136,8 @@ respuesta.
 
 6. Video 
 
+https://www.youtube.com/watch?v=honV2XpOwPE
+
 7. Conclusiones
 
 El teorema de transferencia de potencia máximma se refiere al enunciado para una fuente de voltaje dada, la potencia máxioima se pasa desde una fuente hasta una carga, esto se debe cuando la resistencia de la carga es igual a la resistencia interna de la fuente esto quiere decir cuando RL = RS, RS es la ressitencia equivalente al circuito de Thevenin .
