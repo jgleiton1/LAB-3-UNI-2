@@ -138,6 +138,12 @@ respuesta.
 
 7. Conclusiones
 
+El teorema de transferencia de potencia máximma se refiere al enunciado para una fuente de voltaje dada, la potencia máxioima se pasa desde una fuente hasta una carga, esto se debe cuando la resistencia de la carga es igual a la resistencia interna de la fuente esto quiere decir cuando RL = RS, RS es la ressitencia equivalente al circuito de Thevenin .
+
+Para armar el circuito se utilizo 10 ressitencias de diferentes medidas para obtener los valores de corriente y voltaje puesto que estas son RL y la resitencia RS es la que permanece constante , para obtener los datos para llenar las tablas se usa el multimetro y principalmente que el circuito este correctamente conectado para que los datos sean los ideales. 
+
+Para obtener la potencia máxima del circuito con cada una de las resistencias se utiliza la formaula de P = V x I la cual esta medida en wats (W), las mediciones que se aquirieron a travez del uso del multimetro permiten realizar los respectivos calculos, sin embargo si se los realiza solo observando el circuito se debe obtener la resistencia total es decir RS + RL para obtener la intensisdad que es I = (Vs/RT) y con ello aplicar la primera formula mostrada.
+
 8. Bibliografía
 
 Floyd, T. (2007). Principio de Circuitos Eléctricos. Pearson, Prentice Hall
